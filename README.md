@@ -35,7 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Frontend Mentor - Stats preview card component
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./public/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
